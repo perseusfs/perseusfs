@@ -1,4 +1,3 @@
-## Hi there 👋
 ![ascii-art](https://github.com/user-attachments/assets/d1f23aa0-02cd-47e4-a63c-1538e092b73f)
 
 <!--
