@@ -1,4 +1,5 @@
 ## Hi there 👋
+![ascii-art](https://github.com/user-attachments/assets/d1f23aa0-02cd-47e4-a63c-1538e092b73f)
 
 <!--
 **perseusfs/perseusfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...A![ascii-art](https://github.com/user-attachments/assets/f8a9eac3-df4b-49fb-a2bb-78b22360d31f)
+
 -->
